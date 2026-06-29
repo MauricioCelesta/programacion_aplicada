@@ -1,0 +1,13 @@
+# Entorno virtual
+venv/
+ENV/
+env/
+
+# Archivos compilados de Python (Caché)
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuraciones de editores (opcional, por si usas VS Code)
+.vscode/
+.DS_Store
